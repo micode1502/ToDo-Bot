@@ -59,10 +59,6 @@ ToDo Bot is a task management bot that allows you to manage your tasks through S
 - **Add Task**: Provide task details like title, date, time, and priority.
 - **Delete Task**: Remove a task by specifying its number from the list.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 This bot was created by micode1502.
