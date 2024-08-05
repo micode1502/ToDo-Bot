@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+*.lock
+*.poetry
+*.pyproject.toml
+
+.env
+
+*.db
+*.sqlite3
+*.egg-info/
+*.dist-info/
+*.venv/
+.venv/
+.env/
